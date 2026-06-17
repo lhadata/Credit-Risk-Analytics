@@ -17,6 +17,13 @@ Dưới đây là những phát hiện quan trọng nhất (Key Insights) để 
 * **Khoảng cách thu nhập:** Khách hàng thanh toán tốt có mức thu nhập trung bình ($71.03K) cao hơn đáng kể so với nhóm vỡ nợ ($49.96K).
 * **Độ tuổi:** Rủi ro tín dụng tạo thành một đường cong hình chữ U theo độ tuổi. Nhóm khách hàng trẻ (18-24 tuổi) và nhóm lớn tuổi (trên 55 tuổi) có tỷ lệ vỡ nợ cao nhất (trên 22%), trong khi nhóm trung niên (35-44 tuổi) lại là tệp khách hàng an toàn nhất.
 
+### 💡 Đề xuất Giải pháp Kinh doanh (Actionable Recommendations) cho Nova Bank
+
+Dựa trên các rủi ro đã được định lượng, để tối ưu hóa lợi nhuận và giảm thiểu tỷ lệ nợ xấu, Nova Bank có thể áp dụng các chiến lược sau:
+
+* **Siết chặt tiêu chí DTI (Debt-to-Income):** Áp dụng quy trình thẩm định đặc biệt hoặc yêu cầu tài sản thế chấp đối với các nhóm khách hàng có tỷ lệ khoản vay trên thu nhập vượt mức 40%, do nhóm này có xác suất vỡ nợ lên tới hơn 74%.
+* **Điều chỉnh Lãi suất theo Hồ sơ rủi ro (Risk-based Pricing):** Cần tăng biên độ lãi suất hoặc yêu cầu người đồng bảo lãnh đối với nhóm khách hàng đi thuê nhà (Rent) và có lịch sử nợ xấu (Prior Default = Yes). Ngược lại, có thể cung cấp các gói vay ưu đãi hơn cho nhóm khách hàng trung niên (35-44 tuổi) có thu nhập ổn định để tăng trưởng dư nợ an toàn.
+* **Tái cấu trúc sản phẩm vay theo Mục đích:** Đối với các khoản vay Y tế (Medical) và Đảo nợ (Debt Consolidation), ngân hàng nên giải ngân trực tiếp cho bên thứ ba (bệnh viện, tổ chức tín dụng cũ) thay vì đưa tiền mặt cho khách hàng, nhằm kiểm soát chặt chẽ mục đích sử dụng vốn.
 ---
 
 ## 📷 Giao diện Dashboard
